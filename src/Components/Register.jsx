@@ -17,7 +17,8 @@ const useStyles = makeStyles((theme) => ({
   },
   allRegisterContent: {
     height: '100vh',
-    width: '120vh',
+    background: "black",
+    width: '110vh',
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
